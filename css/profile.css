@@ -1,0 +1,25 @@
+/*Colores*/
+.azul-primario{
+  background: #0278ae!important;
+  color: #fafafa;
+}
+
+.azul-secundario{
+  background: #51adcf;
+  color: #fafafa;
+}
+
+.verde-secundario{
+  background: none;
+  color: #e8ffc1;
+}
+
+.profile{
+  width: 25%;
+  border-radius: 25%;
+  border: solid 2.5px #a5ecd7;
+}
+
+.info{
+  margin: 0 10%; 
+}

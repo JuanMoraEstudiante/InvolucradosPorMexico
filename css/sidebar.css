@@ -1,0 +1,38 @@
+html {
+  font-family: 'Open Sans', sans-serif;
+}
+
+/*Colores*/
+.azul-primario{
+  background: #0278ae!important;
+  color: #fafafa;
+}
+
+.azul-secundario{
+  background: #51adcf;
+  color: #fafafa;
+}
+
+.verde-secundario{
+  background: none;
+  color: #e8ffc1;
+}
+
+
+.w3-container{
+  display: flex;
+}
+
+/*Sidebar*/
+.h-45{
+  height: 25vh;
+}
+
+.logo{
+  padding: 10%;
+  width: 75%;
+}
+
+.col-md-8{
+  border-left: solid 1px #0278ae;
+}

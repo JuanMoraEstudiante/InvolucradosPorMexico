@@ -1,0 +1,90 @@
+/*Colores*/
+.azul-primario{
+  background: #0278ae!important;
+  color: #fafafa;
+}
+
+.azul-secundario{
+  background: #51adcf;
+  color: #fafafa;
+}
+
+.verde-secundario{
+  background: none;
+  color: #e8ffc1;
+}
+
+/*Tamaños*/
+.w-90{
+  width:90%!important;
+}
+
+.w-70{
+  width:70%!important;
+}
+
+.w-60{
+  width: 60%!important;
+}
+
+.w-40{
+  width: 50%!important;
+}
+
+/*HTML*/
+footer {
+  text-align: center;
+  padding: 2% 0;
+  margin-top:16.1rem;
+  bottom: 0;
+  width: 100%;
+  height: 40px;
+}
+
+label {
+  font-weight: 600;
+}
+
+body {
+  color: rgba(88,88,91,1);
+  font-family: 'Open Sans', sans-serif;
+  background-color: #e9ecef;
+}
+
+form {
+  border-radius: 0.5rem;
+  border:solid 1.5px #e9ecef;
+  background-color: #fff;
+  padding: 2rem;
+}
+
+/*Clases*/
+.h-80{
+  height: 80vh;
+}
+
+.form-control::placeholder{
+  color: rgba(88,88,91,0.8);
+}
+
+
+.btn-block {
+  background-color: #0278ae;
+  border-color:#0278ae;
+  margin-top: 2rem;
+}
+
+.display-4 {
+  font-weight: 700;
+  text-align:center;
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+}
+
+.spinner-border-sm{
+  margin-bottom: 0.1rem;
+}
+
+.registro{
+  color: #51adcf;
+}
